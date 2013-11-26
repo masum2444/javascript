@@ -1,18 +1,20 @@
-# Airbnb JavaScript Style Guide() {
+[Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript) এর বাংলা অনুবাদ।
 
 *A mostly reasonable approach to JavaScript*
 
 
-## <a name='TOC'>Table of Contents</a>
+#JavaScript লেখার স্টাইল গাইড() {
 
-  1. [Types](#types)
-  1. [Objects](#objects)
-  1. [Arrays](#arrays)
-  1. [Strings](#strings)
-  1. [Functions](#functions)
-  1. [Properties](#properties)
-  1. [Variables](#variables)
-  1. [Hoisting](#hoisting)
+## <a name='TOC'>বিষয়বস্তুর সূচিপত্রঃ</a>
+
+  1. [টাইপ](#types)
+  1. [অবজেক্ট](#objects)
+  1. [এ্যরে](#arrays)
+  1. [স্ট্রিং](#strings)
+  1. [ফাঙ্কশন](#functions)
+  1. [প্রপার্টি](#properties)
+  1. [ভেরিএবল](#variables)
+  1. [হোইস্টিং](#hoisting)
   1. [Conditional Expressions & Equality](#conditionals)
   1. [Blocks](#blocks)
   1. [Comments](#comments)
